@@ -1,4 +1,4 @@
-## Shopping List
+# Shopping List
 Tables: shopping_lists, shopping_items
 
 A shopping list contains multiple items, with each item belonging to a specific list.
